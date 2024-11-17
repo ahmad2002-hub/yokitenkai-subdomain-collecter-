@@ -1,0 +1,1 @@
+# yokitenkai-subdomain-collecter-
